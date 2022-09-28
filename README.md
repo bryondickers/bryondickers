@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bryondicker
+- 👋 Hi, I’m @bryondickers
 - 👀 I’m a computer system engineering student.
 - 🌱 I love programming and it my interest
 - 💞️ I’m a fullstack javascript developer and i'm familiar with it's framework(Reactjs, nodejs, express)
